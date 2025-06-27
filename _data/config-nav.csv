@@ -6,5 +6,6 @@ Locations,/locations.html
 Map,/map.html
 Timeline,/timeline.html
 Data,/data.html
-About,/about.html
-Funders,/funders.html,About
+Project,,
+About,/about.html,Project
+Funders,/funders.html,Project
